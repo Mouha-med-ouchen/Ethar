@@ -1,10 +1,13 @@
 :root {
-  --primary: #023340;
-  /* أسود */
-  /* أو شفاف: #00000000 */
+  --primary: #000000;
+
+}
+
+.light {
+  --primary: #fbfbfb;
 }
 
 body {
   background-color: var(--primary);
-  color: blue;
+
 }
